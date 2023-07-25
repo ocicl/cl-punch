@@ -1,0 +1,10 @@
+* cl-punch
+
+Anonymous lambda literal in Common Lisp, respecting Scala
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/windymelt/cl-punch.git   |
+| commit  | f8ac331  |
+| systems | cl-punch |
+|---------+-------------------------------------------|
+
